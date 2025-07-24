@@ -135,7 +135,7 @@
 <section class="contenedor">
 
     <div class="producto">
-        <img src="1.jpg" alt="Laptop HP">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs219aFI-g6WW8XogwIAJpYzbioLBfSp3pyA&s" alt="Laptop HP">
         <h2>rosas y golosinas</h2>
         <p><strong>Q100</strong></p>
         <p>Intel i5, 8GB RAM, 512GB SSD, Pantalla 15.6", Windows 11</p>
@@ -143,113 +143,31 @@
     </div>
 
     <div class="producto">
-        <img src="2.jpg" alt="Laptop HP">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0MkEjsDZyR46s5MRb7uxPVeW-1nN4uCjLUg&s" alt="Laptop HP">
         <h2>Rosas rosadas y dinero</h2>
         <p><strong>Q400</strong></p>
         <p>AMD Ryzen 5, 8GB RAM, 256GB SSD, Pantalla 14", Windows 11</p>
         <button class="boton-compra" onclick="mostrarPopup('rosas rosadas y dinero')">Comprar</button>
     </div>
 
+    
     <div class="producto">
-        <img src="3.jpg" alt="Laptop HP">
-        <h2>rosas lilas,morado y blanco</h2>
-        <p><strong>Q330</strong></p>
-        <p>Intel i3, 4GB RAM, 1TB HDD, Pantalla 15.6", Windows 10</p>
-        <button class="boton-compra" onclick="mostrarPopup('rosas lilas,morado y blanco')">Comprar</button>
-    </div>
-    <div class="producto">
-        <img src="4.jpg" alt="Laptop HP">
-        <h2>rosas rojas</h2>
-        <p><strong>Q120</strong></p>
-        <p>Intel i3, 4GB RAM, 1TB HDD, Pantalla 15.6", Windows 10</p>
-        <button class="boton-compra" onclick="mostrarPopup('rosas rojas')">Comprar</button>
-    </div>
-    <div class="producto">
-        <img src="5.jpg" alt="Laptop HP">
-        <h2>rosas amarillas</h2>
-        <p><strong>Q300</strong></p>
-        <p>Intel i3, 4GB RAM, 1TB HDD, Pantalla 15.6", Windows 10</p>
-        <button class="boton-compra" onclick="mostrarPopup('rosas amarillas')">Comprar</button>
-    </div>
-    <div class="producto">
-        <img src="6.jpg" alt="Laptop HP">
-        <h2>peineta</h2>
-        <p><strong>Q20</strong></p>
-        <p>Intel i3, 4GB RAM, 1TB HDD, Pantalla 15.6", Windows 10</p>
-        <button class="boton-compra" onclick="mostrarPopup('peineta')">Comprar</button>
-    </div>
-    <div class="producto">
-        <img src="7.jpg" alt="Laptop HP">
-        <h2>lapicero de rosa amarilla</h2>
-        <p><strong>Q10</strong></p>
-        <p>Intel i3, 4GB RAM, 1TB HDD, Pantalla 15.6", Windows 10</p>
-        <button class="boton-compra" onclick="mostrarPopup('lapicero de rosa amarilla')">Comprar</button>
-    </div>
-    <div class="producto">
-        <img src="8.jpg" alt="Laptop HP">
-        <h2>rosas amarillas</h2>
-        <p><strong>Q80</strong></p>
-        <p>Intel i3, 4GB RAM, 1TB HDD, Pantalla 15.6", Windows 10</p>
-        <button class="boton-compra" onclick="mostrarPopup('rosas amarillas')">Comprar</button>
-    </div>
-    <div class="producto">
-        <img src="9.jpg" alt="Laptop HP">
-        <h2>rosas perzonalidas</h2>
-        <p><strong>Q350</strong></p>
-        <p>Intel i3, 4GB RAM, 1TB HDD, Pantalla 15.6", Windows 10</p>
-        <button class="boton-compra" onclick="mostrarPopup('rosas perzonalidas')">Comprar</button>
-    </div>
-    <div class="producto">
-        <img src="10.jpg" alt="Laptop HP">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROxZ_m73NLCguhBO4LNYTeOypr6aTfHKnSXg&s" alt="Laptop HP">
         <h2>rosas rojas y blancas</h2>
         <p><strong>Q220</strong></p>
         <p>Intel i3, 4GB RAM, 1TB HDD, Pantalla 15.6", Windows 10</p>
         <button class="boton-compra" onclick="mostrarPopup('rosas rojas y blancas')">Comprar</button>
     </div>
     <div class="producto">
-        <img src="11.jpg" alt="Laptop HP">
-        <h2>rosas personalizadas</h2>
-        <p><strong>450</strong></p>
-        <p>Intel i3, 4GB RAM, 1TB HDD, Pantalla 15.6", Windows 10</p>
-        <button class="boton-compra" onclick="mostrarPopup('rosas personalizadas')">Comprar</button>
-    </div>
-    <div class="producto">
-        <img src="12.jpg" alt="Laptop HP">
-        <h2>20 rosas y una corona</h2>
-        <p><strong>Q450</strong></p>
-        <p>Intel i3, 4GB RAM, 1TB HDD, Pantalla 15.6", Windows 10</p>
-        <button class="boton-compra" onclick="mostrarPopup('20 rosas y una corona')">Comprar</button>
-    </div>
-    <div class="producto">
-        <img src="13.jpg" alt="Laptop HP">
-        <h2>rosas moradas y blancos</h2>
-        <p><strong>Q200</strong></p>
-        <p>Intel i3, 4GB RAM, 1TB HDD, Pantalla 15.6", Windows 10</p>
-        <button class="boton-compra" onclick="mostrarPopup('rosas moradas y blancos')">Comprar</button>
-    </div>
-    <div class="producto">
-        <img src="14.jpg" alt="Laptop HP">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_7eFvRcbwvdGpQVn-FRVCb0hMCw-ZlKQ3_Q&s" alt="Laptop HP">
         <h2>rosas de stich</h2>
         <p><strong>Q350</strong></p>
         <p>Intel i3, 4GB RAM, 1TB HDD, Pantalla 15.6", Windows 10</p>
         <button class="boton-compra" onclick="mostrarPopup('rosas de stich')">Comprar</button>
     </div>
+    
     <div class="producto">
-        <img src="15.jpg" alt="Laptop HP">
-        <h2>rosas lila y rosado</h2>
-        <p><strong>Q300</strong></p>
-        <p>Intel i3, 4GB RAM, 1TB HDD, Pantalla 15.6", Windows 10</p>
-        <button class="boton-compra" onclick="mostrarPopup('rosa lila y rosado')">Comprar</button>
-    </div>
-    <div class="producto">
-        <img src="16.jpg" alt="Laptop HP">
-        <h2>rosas amarrillas de aniversario</h2>
-        <p><strong>Q150</strong></p>
-        <p>Intel i3, 4GB RAM, 1TB HDD, Pantalla 15.6", Windows 10</p>
-        <button class="boton-compra" onclick="mostrarPopup('rosas amarrillas de aniversario')">Comprar</button>
-    </div>
-    <div class="producto">
-        <img src="17.jpg" alt="Laptop HP">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjeMi403Zev0NKvfqRPQid1gzZtv5f8r53ew&s" alt="Laptop HP">
         <h2>rosa roja de 15 años</h2>
         <p><strong>Q480</strong></p>
         <p>Intel i3, 4GB RAM, 1TB HDD, Pantalla 15.6", Windows 10</p>
